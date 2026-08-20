@@ -1,0 +1,23 @@
+
+
+.AboutMe {
+    border: solid;
+    width: 384px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction:column;
+
+}
+
+.headerv1 {
+
+    font-size:150%;
+
+}
+
+.rows {
+
+    display: flex;
+    flex-direction:row;
+
+}

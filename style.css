@@ -1,17 +1,63 @@
 
 
 .AboutMe {
+    background-color: #ffcdfbe5;
     border: solid;
     width: 384px;
     border-radius: 10px;
     display: flex;
     flex-direction:column;
+    padding-bottom: 5px;
+    
+}
 
+.Bio {
+    background-color: #ffcdfbe5;
+    border: solid;
+    width: 364px;
+    height: 512px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.Projects {
+    background-color: #ffcdfbe5;
+    border: solid;
+    width: 384px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    position:absolute;
+    top: 5px;
+    right: 0px;
+    
+    
 }
 
 .headerv1 {
 
     font-size:150%;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.headerv2 {
+
+    font-size:110%;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.texts {
+
+    font-size: 100%;
+    font-family: "Figtree", sans-serif;
+    margin:2px;
 
 }
 

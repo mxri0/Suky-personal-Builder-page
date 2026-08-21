@@ -3,7 +3,7 @@
 .AboutMe {
     background-color: #ffcdfbe5;
     border: solid;
-    width: 384px;
+    width: 394px;
     border-radius: 10px;
     display: flex;
     flex-direction:column;
@@ -16,7 +16,7 @@
     background-color: #ffcdfbe5;
     border: solid;
     width: 364px;
-    height: 512px;
+    height: 563px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -32,6 +32,20 @@
     padding-bottom: 5px;
     position:absolute;
     top: 5px;
+    right: 0px;
+    border-color: #4e3e4de5;
+    margin:0px;
+    
+}
+
+.Music {
+    background-color: #ffcdfbe5;
+    border: solid;
+    width: 80px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    position:absolute;
+    bottom: 5px;
     right: 0px;
     border-color: #4e3e4de5;
     margin:0px;

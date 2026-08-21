@@ -23,7 +23,7 @@ HTML
 CSS
 
 Live Site:
-...
+[Suky-Builder-Page](https://mxri0.github.io/Suky-personal-Builder-page/)
 
 To run locally you can clone the repo and double clicking the index.html file or using a local server
 

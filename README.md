@@ -6,9 +6,13 @@ is a project made for the first trial "Raise your Builder Page" on the Pixi by h
 
 
   Welcome header;
+  
   My Bio;
+  
   Contact Me;
+  
   My Projects;
+  
   Audio player;
 
 }
